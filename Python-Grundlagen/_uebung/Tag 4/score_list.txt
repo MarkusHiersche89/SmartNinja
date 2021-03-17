@@ -1,0 +1,1 @@
+[{"attempts": 5, "wrong_guesses": 4, "date": "2020-04-30 09:53:16.022357", "name": "M1", "secret": 10}, {"attempts": 5, "wrong_guesses": 4, "date": "2020-04-30 09:53:41.869949", "name": "M2", "secret": 25}]

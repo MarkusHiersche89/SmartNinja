@@ -1,0 +1,1 @@
+[{"name": "Max", "phone": "0123456", "city": "Wien"}, {"name": "Susi", "phone": "987654", "city": "Berlin"}, {"name": "Joe", "phone": "147258", "city": "Bern"}, {"name": "Peter", "phone": "963741", "city": "St. Petersburg"}]
