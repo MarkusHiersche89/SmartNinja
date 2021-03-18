@@ -1,0 +1,15 @@
+p {
+    font-family: arial;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+.border_green {
+    border: 1px solid green;
+}
