@@ -1,7 +1,7 @@
 # Python-Grundlagen
 Smartninja
 
-Inhalt: Mitschriften vom Kurs
+Inhalt: Mitschriften vom Kurs (Q1 2020)
 
 # WebDev-Kurs
 Smartninja | WebDevelopment1
