@@ -35,3 +35,8 @@ b, a {
 .img_href{
     height: 50px;
 }
+
+.img_right {
+    /*align: right;*/
+    float: right;
+}
