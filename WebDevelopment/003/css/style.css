@@ -1,0 +1,33 @@
+
+.container{
+    border: 1px solid black;
+    display: flex;
+    /*flex-direction: column;*/
+    justify-content: space-between;
+    height: 500px;
+    align-items: center;
+}
+
+.navbar{
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+}
+
+.links{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.square{
+    border: 1px solid black;
+    height: 120px;
+    width: 120px;
+    background-color: red;
+    padding: 5px;
+    margin: 10px;
+    box-sizing: border-box;
+}
