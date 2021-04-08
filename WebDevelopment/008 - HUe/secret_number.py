@@ -23,7 +23,7 @@ print(str(secret))
 
 finish = False
 
-while (finish == False):
+while not finish:
     zahl = int(input("Rate ein Zahl: "))
     if zahl > secret:
         print("zu gross")
