@@ -9,13 +9,13 @@ Wenn es sowohl mit 3 als auch mit 5 teilbar ist, wird "fizzbuzz" gedruckt.
 
 eingabe = 99
 
-while 1 < eingabe < 100:
-    eingabe = int(input("Zahl zwischen 1 und 100 eingeben: "))
-    if eingabe % 5 == 0 and eingabe % 3 == 0:
+eingabe = int(input("Zahl zwischen 1 und 100 eingeben: "))
+for item in range(1, eingabe+1):
+    if item % 5 == 0 and item % 3 == 0:
         print("fizzbuzz")
-    elif eingabe % 3 == 0:
+    elif item % 3 == 0:
         print("fizz")
-    elif eingabe % 5 == 0:
+    elif item % 5 == 0:
         print("buzz")
     else:
-        print(str(eingabe))
+        print(str(item))
