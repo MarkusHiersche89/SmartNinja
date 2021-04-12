@@ -7,8 +7,6 @@ Wenn die Zahl durch 5 teilbar ist, wird "Buzz" ausgegeben.
 Wenn es sowohl mit 3 als auch mit 5 teilbar ist, wird "fizzbuzz" gedruckt.
 '''
 
-eingabe = 99
-
 eingabe = int(input("Zahl zwischen 1 und 100 eingeben: "))
 for item in range(1, eingabe+1):
     if item % 5 == 0 and item % 3 == 0:
